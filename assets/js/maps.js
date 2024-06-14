@@ -6,16 +6,17 @@
             lng: 18.0572531
         }
     });
-    var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    var labels = "ABC";
     var locations = [
         { lat: 57.7089, lng: 11.9746 },
         { lat: 55.6050, lng: 13.0038 },
-        { lat: 59.8586, lng: 17.6389 }
+        { lat: 59.8586, lng: 17.6389 },
     ];
     var markers = locations.map(function (location, i) {
         return new google.maps.Marker({
             position: location,
-            label: labels[i % labels.length]
+            label: labels[i % labels.length],
+            map: map
         });
     });
     var markerClusterer = new markerClusterer(map, markers,
