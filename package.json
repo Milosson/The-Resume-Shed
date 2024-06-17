@@ -10,7 +10,7 @@
     "heroku": "^8.11.5"
   },
   "engines": {
-    "node": ">=12.0.0"
+    "node": "20.13.1"
   },
   "author": "Milo",
   "license": "MIT",
@@ -28,4 +28,3 @@
   },
   "homepage": "https://github.com/your-username/your-repo"
 }
-git commit -am 'ignore npm-debug'
