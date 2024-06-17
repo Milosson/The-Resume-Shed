@@ -1,0 +1,38 @@
+
+
+
+
+{
+  "name": "resumeboostrap",
+  "version": "1.0.0",
+  "description": "Resume",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "heroku": "^8.1.9" 
+  },
+  "devDependencies": {
+ 
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "author": "Milo",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "heroku",
+    "example"
+    
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milosson/Resume-Bootstrap"  
+  },"bugs": {
+    "url": "https://github.com/your-username/your-repo/issues"  
+  },
+  "homepage": "https://github.com/your-username/your-repo"  
+  }
+  
