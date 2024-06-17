@@ -28,3 +28,4 @@
   },
   "homepage": "https://github.com/your-username/your-repo"
 }
+git commit -am 'ignore npm-debug'
