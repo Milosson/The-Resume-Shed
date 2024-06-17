@@ -1,2 +1,4 @@
+web: npm start
+core.javascript*
 node_modules
 
