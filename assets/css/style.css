@@ -11,11 +11,11 @@
 }
 
 .bg-color-three-reasons {
-    background-color: #ffffff;
+    background-color: #f4f4f4;
 }
 
 .bg-color-personal-info {
-    background-color: #f4f4f4;
+    background-color: #e0e0e0;
 }
 
 .bg-color-skills {
@@ -403,6 +403,7 @@ div#map {
         padding: 0 30px 30px;
         float: none;
         display: table-cell;
+        
         
     }
 
