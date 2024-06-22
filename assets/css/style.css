@@ -7,7 +7,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #e1e7ec;
+    background-color: #525252;
 }
 
 .bg-color-three-reasons {
@@ -47,7 +47,7 @@
 }
 
 .ui-menu-color-contact {
-    background-color: #E9EBF8;
+    background-color: #2e4d29;
 }
 
 .ui-menu-color-download {
@@ -90,7 +90,7 @@ h4 {
 .general-sub {
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    color: #fafafa;
+    color: black;
 }
 
 .inline-block {
@@ -115,6 +115,7 @@ h4 {
 
 header {
     margin: 0;
+    
 }
 
 .heading {
@@ -201,8 +202,8 @@ header {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: #fafafa;
-    color: #fafafa;
+    background-color: #e0e0e0;
+    color: black;
     min-height: 120px;
     margin: 0;
 }
@@ -402,6 +403,7 @@ div#map {
         padding: 0 30px 30px;
         float: none;
         display: table-cell;
+        
     }
 
     .center-form {
